@@ -1,3 +1,4 @@
-theme: jekyll-theme-hacker
-title: Bare Metal Mind
-description: Field notes from bare metal and local AI.
+collections:
+  guide:
+    output: true
+Next: How to verify your system is actually using acceleration — and not pretending.
