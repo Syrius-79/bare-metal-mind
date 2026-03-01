@@ -2,41 +2,103 @@ BARE METAL MIND
 
 Most people don’t run powerful LLMs.
 
-They run confused ones.
+They run uncontrolled ones.
 
 They increase temperature.
 They copy prompts.
 They blame the model.
 
-Then they say:
-“LLMs are overrated.”
+Then they conclude: “LLMs are overrated.”
 
 No.
 
-You just never controlled it.
+They were never engineered.
 
-This repository is not about hype.
+This repository documents what happens when probabilistic systems are treated like systems — not toys.
 
-It is about:
+Real hardware.
+Measured constraints.
+No cloud abstraction.
+No motivational language.
 
-running local models
+Only mechanics.
 
-understanding drift
+ENGINEERING POSITION
 
-forcing behavioral stability
+Written from a Swiss systems background.
 
-pushing context until it breaks
+Gymnasium logic.
+DEC-era hardware culture.
+Military discipline.
 
-proving what “uncensored” actually means
+Precision is not aesthetic.
+It is operational.
 
-Everything here was tested on real hardware.
+Systems must behave predictably.
+If they don’t, the fault is structural.
 
-No screenshots.
-No theory.
-No LinkedIn AI nonsense.
+Large Language Models are stochastic engines operating under constraint.
 
-If you want magic prompts,
-leave.
+Temperature is pressure.
+Context is load.
+Sampling is bias control.
 
-If you want to understand why models fracture under pressure,
-keep reading.
+If a model drifts, it is not mystical.
+
+It is mechanical instability.
+
+LANGUAGE AS A CONTROL VARIABLE
+
+All experiments in this repository were conducted bilingually:
+
+German and English.
+
+This is intentional.
+
+Language is not decoration.
+It is structural pressure.
+
+Different languages influence:
+
+token distribution
+
+instruction clarity
+
+moral alignment tone
+
+verbosity
+
+drift behavior
+
+Prompts can be translated.
+Behavior under pressure changes.
+
+The baseline documentation reflects German and English testing environments.
+
+Bilingual execution is not marketing.
+
+It is control validation.
+
+D / CH / A – SYSTEMREALITÄT
+
+Mitteleuropäisches Systemdenken bedeutet:
+
+Messbarkeit.
+Reproduzierbarkeit.
+Grenzwerte.
+
+Ein LLM ist kein kreatives Wesen.
+Es ist ein Wahrscheinlichkeitsmodell unter Last.
+
+Ohne Struktur entsteht Durchschnitt.
+Ohne Begrenzung entsteht Drift.
+Unter Druck zeigt sich Charakter.
+
+Hier wird nicht inszeniert.
+Hier wird geprüft.
+
+Schweizer Qualität bedeutet:
+
+Saubere Tests.
+Klare Parameter.
+Keine Show.
