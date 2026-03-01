@@ -1,4 +1,96 @@
-Bare Metal Mind
+# BARE METAL MIND
+
+Most people don’t run powerful LLMs.
+
+They run unstable ones.
+
+They increase temperature.
+They copy prompts.
+They blame the model.
+
+Then they say:
+“LLMs are overrated.”
+
+No.
+
+They were never under control.
+
+---
+
+## WHAT THIS PROJECT DOES
+
+This project documents what happens when structure, constraint and pressure are applied to local language models.
+
+Tested on:
+
+- Dedicated hardware rigs  
+- Consumer GPUs under load  
+- Cloud GPU instances  
+- Real-world latency conditions  
+
+No abstraction layers.
+No API smoothing.
+No corporate guardrails.
+
+Only raw inference.
+
+---
+
+## ENGINEERING CONTEXT
+
+Built from a D / CH / A systems mindset.
+
+Precision.
+Repeatability.
+Constraint.
+
+LLMs are stochastic systems.
+Under load, they reveal their mechanics.
+
+Temperature = pressure.
+Context length = structural stress.
+Sampling = behavioral bias.
+
+Drift is not magic.
+
+Drift is instability.
+
+---
+
+## LANGUAGE CONTROL
+
+All experiments were executed bilingually.
+
+German and English.
+
+Language is not decoration.
+It is a control variable.
+
+Prompts can be translated.
+Behavior cannot.
+
+---
+
+# D / CH / A SYSTEMREALITÄT
+
+Dieses Projekt wurde zweisprachig getestet.
+Deutsch und Englisch.
+
+Nicht aus Marketinggründen.
+Sondern zur Validierung.
+
+Sprache beeinflusst:
+
+- Token-Verteilung
+- Instruktionsstabilität
+- moralische Glättung
+- Driftverhalten
+
+Ein LLM ist kein Wesen.
+Es ist ein Wahrscheinlichkeitsmodell unter Last.
+
+Hier wird nichts inszeniert.
+Hier wird geprüft.Bare Metal Mind
 
 Most people don’t run powerful LLMs.
 They run confused ones.
