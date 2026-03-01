@@ -1,155 +1,42 @@
-f🧠 BARE METAL MIND
-Field Notes From Real Hardware
-🇬🇧 ENGLISH
-Expect the Dumbest Version of an LLM — Unless You Control It.
+BARE METAL MIND
 
-Most people don’t run powerful models.
+Most people don’t run powerful LLMs.
 
-They run the weakest possible version of them.
+They run confused ones.
 
-This repository documents what actually happens when you:
+They increase temperature.
+They copy prompts.
+They blame the model.
 
-    Run local LLMs with llama.cpp
+Then they say:
+“LLMs are overrated.”
 
-    Push GPU acceleration properly
+No.
 
-    Stress context limits
+You just never controlled it.
 
-    Break prompts on purpose
+This repository is not about hype.
 
-    Try to lock personality without finetuning
+It is about:
 
-    Test “uncensored” models beyond marketing claims
+running local models
 
-This is not a hype blog.
+understanding drift
 
-This is field research.
-What This Project Is
+forcing behavioral stability
 
-A structured, step-by-step breakdown of:
+pushing context until it breaks
 
-    Basic setup (Windows → Linux reality check)
+proving what “uncensored” actually means
 
-    GPU verification
+Everything here was tested on real hardware.
 
-    Real llama.cpp flags
+No screenshots.
+No theory.
+No LinkedIn AI nonsense.
 
-    Context, temperature & pressure
+If you want magic prompts,
+leave.
 
-    Prompt control vs prompt illusion
-
-    Model drift & personality instability
-
-    Behavioral locking without retraining
-
-    Raw Mythomax experiments (appendix)
-
-It starts simple.
-
-It gets technical.
-
-It ends in controlled chaos.
-Who This Is For
-
-Level 1 – Beginners
-Understand what LLMs actually are and why most setups fail.
-
-Level 2 – Technical Users
-Understand GPU layers, KV cache, context pressure and prompt mechanics.
-
-Level 3 – Specialists
-Explore drift behavior, identity splits and controlled degradation under stress.
-Philosophy
-
-LLMs are probability engines.
-
-Without structure:
-They default to average.
-
-Without control:
-They drift.
-
-Without constraints:
-They fracture.
-
-Most “uncensored” setups are not powerful.
-
-They are unstable.
-
-This repo demonstrates the difference.
-🇩🇪 DEUTSCH
-Erwarte die dümmste Version eines LLM — wenn du es nicht kontrollierst.
-
-Die meisten Menschen betreiben keine leistungsstarken Modelle.
-
-Sie betreiben die schwächste mögliche Version davon.
-
-Dieses Repository dokumentiert, was wirklich passiert, wenn man:
-
-    Lokale LLMs mit llama.cpp betreibt
-
-    GPU-Beschleunigung korrekt nutzt
-
-    Kontextgrenzen ausreizt
-
-    Prompts bewusst destabilisiert
-
-    Persönlichkeit ohne Finetuning fixieren will
-
-    „Unzensierte“ Modelle jenseits von Marketing testet
-
-Das ist kein Hype-Blog.
-
-Das ist Feldforschung.
-Worum es hier geht
-
-Eine strukturierte Analyse von:
-
-    Setup-Realität (Windows vs. Linux)
-
-    GPU-Validierung
-
-    Relevante llama.cpp Flags
-
-    Kontext, Temperatur & Druck
-
-    Prompt-Kontrolle vs. Prompt-Illusion
-
-    Modell-Drift & Instabilität
-
-    Verhaltens-Fixierung ohne Retraining
-
-    Mythomax-Experimente im Appendix
-
-Es beginnt einfach.
-
-Es wird technisch.
-
-Es endet kontrolliert chaotisch.
-Für wen ist das?
-
-Stufe 1 – Einsteiger
-Verstehen, warum die meisten LLM-Setups falsch laufen.
-
-Stufe 2 – Technisch Versierte
-GPU-Layers, KV-Cache, Kontext-Druck und Prompt-Mechanik verstehen.
-
-Stufe 3 – Spezialisten
-Drift-Verhalten, Identitätssplits und kontrollierte Instabilität analysieren.
-Grundgedanke
-
-Ein LLM ist ein Wahrscheinlichkeitsmotor.
-
-Ohne Struktur → Durchschnitt.
-Ohne Kontrolle → Drift.
-Ohne Grenzen → Zerfall.
-
-Dieses Repo zeigt den Unterschied zwischen Marketing und Realität.
-
-So.
-
-Das ist sauber.
-Kein Möchtegern-Edgelord.
-Kein KI-Guru-Geschwurbel.
-– GitHub Repo Tags
-– Und eine minimal aggressive Version für mehr Aufmerksamkeit 😏
+If you want to understand why models fracture under pressure,
+keep reading.
