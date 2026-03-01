@@ -1,113 +1,68 @@
-# BARE METAL MIND
+# Bare Metal Mind
 
-Most people don’t run powerful LLMs.
-
-They run unstable ones.
-
-They increase temperature. They copy prompts. They blame the model.
-
-Then they say: “LLMs are overrated.”
-
-No.
-
-They were never under control.
+Field notes from structured local LLM testing.
 
 ---
 
-## SWISS ENGINEERING CONTEXT (CH)
+## About
 
-This project is built from a Swiss systems mindset.
+This project explores how Large Language Models behave under constraint.
 
-Precision. Discipline. Constraint. Accountability.
+Not in theory.
+Not in cloud demos.
 
-Swiss engineering culture does not optimize for hype. It optimizes for function.
+On local hardware.
+With measurable limits.
 
-Systems must behave predictably. If they don’t, the fault is structural.
+Focus:
 
-Large Language Models are stochastic engines operating under constraint.
-
-Temperature = pressure.  
-Context length = structural load.  
-Sampling = bias control.
-
-Drift is not mystical.
-
-Drift is mechanical instability.
+- context stress testing
+- behavioral drift analysis
+- parameter stability
+- bilingual evaluation (English / German)
 
 ---
 
-## D / A CONTEXT
+## Engineering Perspective (CH)
 
-The broader German-speaking engineering culture shares similar principles:
+Developed from a Swiss engineering background.
 
-Repeatability. Measurement. Structural clarity.
+Precision over hype.
+Repeatability over performance theatre.
 
-This repository operates within that Central European systems tradition.
+Systems must behave predictably.
+If they drift, the cause is structural.
 
----
-
-## TEST ENVIRONMENT
-
-All experiments were executed on:
-
-- Local hardware rigs
-- Consumer GPUs under sustained load
-- Cloud GPU instances
-- Real latency conditions
-
-No abstraction layers.  
-No API smoothing.  
-No marketing filters.
-
-Only raw inference.
+LLMs are probabilistic systems.
+Under pressure, they reveal their mechanics.
 
 ---
 
-## LANGUAGE AS CONTROL
+## Language Testing
 
-All experiments were conducted bilingually.
+All core experiments were conducted in English and German.
 
-German and English.
+Swiss German dialect was used for additional validation under informal linguistic pressure.
 
-Language is not decoration. It is a control variable.
+Language influences:
 
-Different languages alter:
-
-- token distribution
-- instruction compliance
+- token structure
+- compliance stability
 - verbosity
-- moral alignment smoothing
-- drift behavior
+- alignment smoothing
 
-Prompts can be translated.
-
-Behavior under pressure changes.
+Translation does not equal equivalence.
 
 ---
 
-## SYSTEMREALITÄT (CH)
+## Scope
 
-Dieses Projekt wurde zweisprachig getestet: Deutsch und Englisch.
+- Local inference environments
+- Consumer GPU stress scenarios
+- Controlled parameter testing
+- No fine-tuning claims
+- No cloud abstraction layer bias
 
-Die Denkweise ist schweizerisch geprägt.
+This is documentation.
 
-Kein Show-Effekt.  
-Keine Silicon-Valley-Romantik.  
-Kein Marketing.
-
-Sondern:
-
-Messbarkeit.  
-Grenzen.  
-Verantwortung.
-
-Ein Large Language Model ist kein Wesen.  
-Es ist ein Wahrscheinlichkeitsmodell unter Belastung.
-
-Wenn es driftet, liegt es nicht an Magie.
-
-Es liegt an Parametern.
-
-Hier wird nichts inszeniert.
-
-Hier wird geprüft.
+Not promotion.
