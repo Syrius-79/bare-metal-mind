@@ -17,6 +17,124 @@ They were never under control.
 
 ---
 
+## SWISS ENGINEERING CONTEXT (CH)
+
+This project is built from a Swiss systems mindset.
+
+Precision.
+Discipline.
+Constraint.
+Accountability.
+
+Swiss engineering culture does not optimize for hype.
+It optimizes for function.
+
+Systems must behave predictably.
+If they don’t, the fault is structural.
+
+Large Language Models are stochastic engines operating under constraint.
+
+Temperature = pressure.  
+Context length = structural load.  
+Sampling = bias control.
+
+Drift is not mystical.
+
+Drift is mechanical instability.
+
+---
+
+## D / A EXTENDED CONTEXT
+
+The broader German-speaking engineering culture (D / A) shares similar values:
+
+Repeatability.
+Measurement.
+Structural clarity.
+
+This repository operates inside that Central European systems tradition.
+
+---
+
+## TEST ENVIRONMENT
+
+All experiments were executed on:
+
+- Local hardware rigs  
+- Consumer GPUs under sustained load  
+- Cloud GPU instances  
+- Real latency conditions  
+
+No abstraction layers.
+No API smoothing.
+No marketing filters.
+
+Only raw inference.
+
+---
+
+## LANGUAGE AS CONTROL
+
+All tests were conducted bilingually.
+
+German and English.
+
+Language is not decoration.
+It is a control variable.
+
+Different languages alter:
+
+- token distribution  
+- instruction compliance  
+- verbosity  
+- moral alignment smoothing  
+- drift behavior  
+
+Prompts can be translated.
+
+Behavior under pressure changes.
+
+---
+
+# SYSTEMREALITÄT (CH)
+
+Dieses Projekt wurde zweisprachig getestet.
+Deutsch und Englisch.
+
+Die Basis ist schweizerisch geprägt.
+
+Kein Show-Effekt.
+Keine Silicon-Valley-Romantik.
+
+Sondern:
+
+Messbarkeit.
+Grenzen.
+Verantwortung.
+
+Ein LLM ist kein Wesen.
+Es ist ein Wahrscheinlichkeitsmodell unter Last.
+
+Hier wird nichts behauptet.
+Hier wird geprüft.# BARE METAL MIND
+
+Most people don’t run powerful LLMs.
+
+They run unstable ones.
+
+They increase temperature.
+They copy prompts.
+They blame the model.
+
+Then they say:
+“LLMs are overrated.”
+
+No.
+
+They were never under control.
+
+---
+
 ## WHAT THIS PROJECT DOES
 
 This project documents what happens when structure, constraint and pressure are applied to local language models.
