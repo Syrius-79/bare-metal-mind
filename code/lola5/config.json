@@ -1,0 +1,6 @@
+{
+  "server": "http://192.168.1.50:8080/v1/completions",
+  "temperature": 0.8,
+  "top_p": 0.9,
+  "max_tokens": 512
+}
