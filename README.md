@@ -1,79 +1,114 @@
 # BARE METAL MIND
 
-This repository documents what happens when probabilistic systems are treated like systems — not toys.
+Most people don’t run powerful LLMs.
 
-Real hardware.  
-Measured constraints.  
-No cloud abstraction.  
-No motivational language.
+They run unstable ones.
 
-Only mechanics.
+They increase temperature.
+They copy prompts.
+They blame the model.
+
+Then they say:
+“LLMs are overrated.”
+
+No.
+
+They were never under control.
 
 ---
 
-## ENGINEERING POSITION
+## WHAT THIS REPOSITORY IS
 
-Written from a Swiss systems background.
+This project documents structured testing of local Large Language Models.
 
-Gymnasium logic.  
-DEC-era hardware culture.  
-Military discipline.
+Focus areas:
 
-Precision is not aesthetic. It is operational.
+- constraint
+- drift
+- behavioral stability
+- context pressure
+- parameter control
 
-Systems must behave predictably.  
-If they don’t, the fault is structural.
+Tested on real hardware.
+Under real limits.
+Without API abstraction layers.
+
+No hype.
+No prompt magic.
+No AI influencer theatre.
+
+Only systems under load.
+
+---
+
+## SWISS ENGINEERING CONTEXT (CH)
+
+This project is built from a Swiss systems mindset.
+
+Precision.
+Discipline.
+Constraint.
+Accountability.
+
+Systems must behave predictably.
+If they do not, the fault is structural.
 
 Large Language Models are stochastic engines operating under constraint.
 
-Temperature is pressure.  
-Context is load.  
-Sampling is bias control.
+Temperature = pressure  
+Context length = structural load  
+Sampling = bias control  
 
-If a model drifts, it is not mystical.
+Drift is not mystical.
 
-It is mechanical instability.
-
----
-
-## LANGUAGE AS A CONTROL VARIABLE
-
-All experiments in this repository were conducted bilingually.
-
-**German and English.**
-
-This is intentional.
-
-Language is not decoration.  
-It is structural pressure.
-
-Different languages influence:
-
-- token distribution  
-- instruction clarity  
-- moral framing  
-- verbosity  
-- drift behavior  
-
-Prompts can be translated.  
-Behavior under pressure changes.
+Drift is mechanical instability.
 
 ---
 
-## D / CH / A – SYSTEMREALITÄT
+## LANGUAGE & TEST SCOPE
 
-Mitteleuropäisches Systemdenken bedeutet:
+Primary documentation language: English.
 
-Messbarkeit.  
-Reproduzierbarkeit.  
-Grenzwerte.
+Core experiments conducted in:
 
-Ein LLM ist kein kreatives Wesen.  
-Es ist ein Wahrscheinlichkeitsmodell unter Last.
+- English
+- Standard German (CH/D context)
 
-Ohne Struktur entsteht Durchschnitt.  
-Ohne Begrenzung entsteht Drift.  
-Unter Druck zeigt sich Charakter.
+Additional validation tests executed in Swiss German dialect.
 
-Hier wird nicht inszeniert.  
+Language is not decoration.
+It is a control variable.
+
+Different linguistic environments influence:
+
+- token distribution
+- instruction compliance
+- verbosity
+- alignment smoothing
+- drift behavior
+
+Italian and French were not part of the controlled scope.
+
+Translation preserves wording.
+It does not preserve behavioral stress.
+
+---
+
+## SYSTEMREALITÄT (DE)
+
+Dieses Repository dokumentiert strukturierte Tests mit lokalen LLMs.
+
+Keine Spielerei.
+Keine Marketing-Sprache.
+
+Ein LLM ist ein Wahrscheinlichkeitsmodell unter Last.
+
+Ohne Struktur entsteht Durchschnitt.
+Ohne Begrenzung entsteht Drift.
+Unter Druck zeigt sich Systemverhalten.
+
+Hier wird nicht inszeniert.
+
 Hier wird geprüft.
+
+Ma plaunsch.
