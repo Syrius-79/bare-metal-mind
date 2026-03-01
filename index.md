@@ -1,35 +1,92 @@
-## Bare Metal Mind
+BARE METAL MIND
 
-Nobody reads this.
+Most people don’t run powerful LLMs.
 
-Good.
+They run confused ones.
 
-I don’t write for applause.
-I write because I push machines until they complain.
+They increase temperature.
+They copy prompts.
+They blame the model.
 
-I don’t rent intelligence.
-I don’t trust “AI platforms”.
-I don’t believe in dashboards with rounded corners.
+Then they say: “LLMs are overrated.”
 
-I believe in heat.
-In silicon.
-In VRAM limits.
-In context windows that almost crash the system.
+No.
 
-I build local.
-I break local.
-I fix local.
+They were never under control.
 
-Cloud AI is convenience.
-Bare metal is control.
+This repository documents what happens when you apply structure, constraint and pressure to local language models.
 
-If you want comfort, go back to your subscription.
+On real hardware.
+Under real limits.
+Without cloud smoothing.
 
-If you want to understand what happens
-when hardware is actually driven —
+Engineering Perspective (D/CH/A Context)
 
-this is where it’s documented.
+This work is written from a Central European systems mindset.
 
-Unfiltered.
-Unoptimized.
-Unapologetic.
+D/CH/A engineering culture values:
+
+Precision.
+Repeatability.
+Constraint.
+Mechanical clarity.
+
+Machines must behave predictably.
+Systems must be measurable.
+
+LLMs are no exception.
+
+They are probabilistic engines operating under sampling pressure, context limits and instruction hierarchy.
+
+When they drift, it is not magic.
+
+It is mechanics.
+
+Language Parameter
+
+Most experiments in this repository were conducted in German.
+
+This is deliberate.
+
+Language affects:
+
+instruction compliance
+
+verbosity
+
+tone stability
+
+moral framing
+
+drift behavior
+
+Prompts can be translated.
+Behavior cannot.
+
+The documented baseline is German.
+
+Because language is structural pressure.
+
+And structural pressure exposes instability.
+
+Klartext
+
+Ein LLM ist kein Orakel.
+Es ist ein Wahrscheinlichkeitsmotor.
+
+Ohne Systemführung entsteht Durchschnitt.
+Ohne Begrenzung entsteht Drift.
+Ohne Kontrolle entsteht Zerfall.
+
+Hier wird nicht „gepromptet“.
+Hier wird getestet.
+
+Footnote
+
+This repository reflects hands-on experimentation with large language models, including extensive interaction, behavioral probing and system-level constraint testing.
+
+No fine-tuning.
+No internal access.
+No marketing claims.
+
+Only applied systems control.
