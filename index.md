@@ -1,9 +1,3 @@
----
-layout: guide
-title: Bare Metal Mind – Structured Local LLM Testing
-description: Field research on local Large Language Models. Constraint, drift, context pressure and parameter stability under real hardware limits.
----
-
 
 
 # Bare Metal Mind
