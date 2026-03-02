@@ -1,3 +1,3 @@
-collections:
-  guide:
-    output: true
+theme: jekyll-theme-hacker
+title: Bare Metal Mind
+description: Structured stress testing of local LLM systems.
