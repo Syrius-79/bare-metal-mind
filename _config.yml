@@ -7,3 +7,8 @@ baseurl: "/bare-metal-mind"
 
 plugins:
   - jekyll-sitemap
+collections:
+  guide:
+    output: true
+  system:
+    output: true
