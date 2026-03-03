@@ -2,5 +2,8 @@ google_site_verification: SgmRcH5RGYuHfCZZh-05vIGDhhn9OYFjvJ7B2aL0g
 theme: jekyll-theme-hacker
 title: Bare Metal Mind
 description: Structured stress testing of local LLM systems
+url: "https://syrius-79.github.io"
+baseurl: "/bare-metal-mind"
 
-
+plugins:
+  - jekyll-sitemap
