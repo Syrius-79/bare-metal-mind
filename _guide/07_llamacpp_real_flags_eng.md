@@ -1,9 +1,3 @@
----
-layout: guide
-title: llama.cpp — The Flags That Separate Tourists From Operators
-order: 7
----
-
 # llama.cpp — The Flags That Separate Tourists From Operators
 
 LLM Studio was the warm-up.
