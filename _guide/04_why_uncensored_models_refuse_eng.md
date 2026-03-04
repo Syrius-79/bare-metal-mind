@@ -1,9 +1,3 @@
----
-layout: guide
-title: Why “Uncensored” Models Still Refuse — And Why It’s Not Random
-order: 4
----
-
 # Why “Uncensored” Models Still Refuse — And Why It’s Not Random
 
 You downloaded an “uncensored” model.
