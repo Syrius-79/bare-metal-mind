@@ -1,9 +1,3 @@
----
-layout: guide
-title: How to Verify GPU Acceleration (CPU vs GPU Explained Properly)
-order: 3
----
-
 # How to Verify GPU Acceleration — CPU vs GPU, No Illusions
 
 You think you're using your GPU.
