@@ -1,8 +1,3 @@
----
-layout: post
-title: "Why Linux Wins for llama.cpp (And How To Install It Properly)"
----
-
 # Why Linux Wins for llama.cpp
 
 You got it running on Windows.
