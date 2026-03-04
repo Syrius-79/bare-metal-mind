@@ -1,8 +1,3 @@
----
-layout: post
-title: "Uncensored LLM on Windows in 20 Minutes"
----
-
 # Uncensored LLM on Windows in 20 Minutes
 
 You don’t want theory.
