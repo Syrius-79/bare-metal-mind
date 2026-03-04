@@ -1,9 +1,3 @@
----
-layout: guide
-title: The Illusion of Uncensored
-order: 11
----
-
 # The Illusion of Uncensored
 
 You think you removed the filters.
