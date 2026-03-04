@@ -1,9 +1,3 @@
----
-layout: guide
-title: Why Control Matters
-order: 12
----
-
 # Why Control Matters
 
 You didn’t download a local model just for fun.
