@@ -1,9 +1,3 @@
----
-layout: guide
-title: GPU Layers & Context — From Office PC to Monster Rig
-order: 6
----
-
 # GPU Layers & Context — From Office PC to Monster Rig
 
 Let’s fix a common misunderstanding.
