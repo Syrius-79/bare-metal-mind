@@ -1,9 +1,3 @@
----
-layout: guide
-title: The Prompt Is Not Input — It Is Control
-order: 10
----
-
 # The Prompt Is Not Input — It Is Control
 
 Stop worshipping hardware.
