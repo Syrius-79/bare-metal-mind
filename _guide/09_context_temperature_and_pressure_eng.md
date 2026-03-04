@@ -1,9 +1,3 @@
----
-layout: guide
-title: Context + Temperature — Where Behavior Actually Changes
-order: 9
----
-
 # Context + Temperature — Where Behavior Actually Changes
 
 You increased context.
